@@ -1,0 +1,4605 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Welcome",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "“Connecting",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Dots”",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Challenge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rethink",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Reading.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rediscover",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "What",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "if",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "every",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "time",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "you",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "opened",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "a",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PDF,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "it",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "didn’t",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "just",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sit",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "there—it",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "spoke",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "you,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "connected",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ideas,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "narrated",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "meaning",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "across",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "your",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "entire",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "library?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "That’s",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "future",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "we’re",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "building",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "—",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "we",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "want",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "help",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "shape",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "it.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Connecting",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Dots",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Challenge,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "mission",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "is",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "reimagine",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humble",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PDF",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "as",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "an",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "intelligent,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "interactive",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "experience—one",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "that",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "understands",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "structure,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "surfaces",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "insights,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "responds",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "like",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "trusted",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "research",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "companion.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Journey",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Ahead",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Round",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Kick",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "things",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "off",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "by",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "brains",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "extract",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "structured",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "outlines",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "from",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "raw",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PDFs",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "blazing",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "speed",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "pinpoint",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "accuracy.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Then,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "power",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "up",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "on-device",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "intelligence",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sections",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "links",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "related",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ideas",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "together.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "It’s",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "showtime!",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Build",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "beautiful,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "intuitive",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "reading",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "webapp",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "using",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Adobe’s",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Embed",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "API.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "You",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "will",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "be",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "work",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "design",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "futuristic",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "webapp.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Why",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "This",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Matters",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "world",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "flooded",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "documents,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "what",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "wins",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "not",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "more",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "content",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "it’s",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "context.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "You’re",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "tools",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "you’re",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "how",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "read,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "learn,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "connect.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "No",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "matter",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "background",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ML",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "hacker,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "UI",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "builder,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "or",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "insight",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "whisperer",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "this",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "stage.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Are",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "in?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "read",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "between",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "lines.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Connect",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "dots.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "And",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "build",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "experience",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "feels",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "magic.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Let’s",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "go.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Round",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1A:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Understand",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Your",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Document",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Challenge",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Theme:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Connecting",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Dots",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Through",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Docs",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Mission",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You're",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "handed",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "a",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "PDF",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "—",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "but",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "instead",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "simply",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "reading",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "it,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "you're",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "tasked",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "making",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sense",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "it",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "like",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "machine",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "would.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "job",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "is",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "extract",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "structured",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "outline",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "document",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "essentially",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Title,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "headings",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H1,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H2,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H3",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "in",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "clean,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "hierarchical",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "format.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "This",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "will",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "be",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "foundation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "rest",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "your",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "hackathon",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "journey.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Why",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Matters",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "PDFs",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "are",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "everywhere",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "machines",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "don’t",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "naturally",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "understand",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "their",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "structure.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "By",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "building",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "an",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "extractor,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "you’re",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "enabling",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "smarter",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "experiences,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "semantic",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "search,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "recommendation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "systems,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "insight",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "generation.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "What",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Need",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Build",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "must",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "build",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "solution",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "that:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Accepts",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "file",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(up",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "50",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "pages)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Extracts:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Title",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Headings:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(with",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "level",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "page",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "number)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Outputs",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "valid",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "JSON",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "format",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "below:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "{",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"title\":",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"Understanding",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "AI\",",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"outline\":",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "[",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"level\":",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"H1\",",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"text\":",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"Introduction\",",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"page\":",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "},",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"H2\",",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"What",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "AI?\",",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"H3\",",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "\"History",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "}",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "]",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Will",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Be",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Provided",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "A",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sample",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "input",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(e.g.,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sample.pdf)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ground",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "truth",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "output",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(sample.json)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "clarity",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Sample",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Dockerfile",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "4.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Solution",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Docker",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Requirements",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Please",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ensure",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "your",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "compatible",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "AMD64",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "architecture.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Since",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "we",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "will",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "build",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "run",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "image",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "on",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "an",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "machine,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "base",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "any",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "dependencies",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "should",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "support",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "linux/amd64.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Optionally,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "you",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "can",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "include",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "following",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "in",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "explicitly",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "specify",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "platform:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "FROM",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "--",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "platform=linux/amd64",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "<base_image>",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CPU",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "architecture:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "amd64",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(x86_64)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "No",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "GPU",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Model",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "size",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(if",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "used)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "≤",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "200MB",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Should",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "work",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "offline",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "—",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "no",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "network/internet",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "calls",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Expected",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Execution",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "We",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "docker",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "using",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "command:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "```docker",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "--platform",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "linux/amd64",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "-t",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "mysolutionname:somerandomidentifier```",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "After",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "building",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "image,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "solution",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "command",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "specified",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "submitted",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "instructions.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "--rm",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "-v",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "$(pwd)/input:/app/input",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "$(pwd)/output:/app/output",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "network",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "none",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Your",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "container",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "should:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Automatically",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "process",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "all",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "PDFs",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "from",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "/app/input",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "directory,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "generating",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "corresponding",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "filename.json",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "/app/output",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "each",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "filename.pdf",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "output.json",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Constraints",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Constraint",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Requirement",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "10",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "seconds",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "50-page",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "time",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "PDF",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Model",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "size",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "≤",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "200MB",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(if",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "used)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "No",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "internet",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "access",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Network",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "allowed",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Must",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "run",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "on",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "CPU",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(amd64),",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "your",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "solution",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "should",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Runtime",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "system",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "8",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "CPUs",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "16",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "GB",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "RAM",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "configurations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Scoring",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Criteria",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Max",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Points",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Heading",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Detection",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Accuracy",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(Precision",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "+",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "25",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Recall)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Performance",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(Time",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "&",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Size",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Compliance)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "10",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Bonus:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Multilingual",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Handling",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(e.g.,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Japanese)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Total",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "45",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Submission",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Checklist",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Git",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Project",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "working",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Dockerfile",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "in",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "root",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "director",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "A",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "All",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "dependencies",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "installed",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "within",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "container",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "4.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "README.md",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "that",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "explains:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Your",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "approach",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Any",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "models",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "or",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "libraries",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "used",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "How",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "build",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(This",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "is",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "purely",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "documentation",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "purpose,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "using",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "“Expected",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Execution”",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "section",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "above.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Pro",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Tips",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Don’t",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "rely",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "solely",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "font",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "sizes",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "heading",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "level",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "determination",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "—",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "headings",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "some",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "PDFs",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "break",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "assumption.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "across",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "both",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "simple",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "complex",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "PDFs.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Make",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "code",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "modular",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "you’ll",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "reuse",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "this",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "structure",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Round",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1B.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Important",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "–",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Please",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "keep",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "your",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Git",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Repo",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "private",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "till",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "competition",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "deadline,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "you",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "will",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "be",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "informed,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "when",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "make",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "repo",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "public.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "What",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Not",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Do",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "not",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "hardcode",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "headings",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "or",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "file-specific",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "logic",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "API",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "web",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "calls",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "exceed",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "runtime/model",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "size",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "constraints",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "[[Public",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Dataset",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Folder]]",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "(For",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Sample",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Input",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Output",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Files,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "please",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "refer",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "appendix)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Round",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1B:",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Persona-Driven",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Document",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Intelligence",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Theme:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "“Connect",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "What",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Matters",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "—",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "For",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "User",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Who",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Matters”",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Challenge",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Brief",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "(For",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Participants)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "You",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "will",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "build",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "a",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "system",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "that",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "acts",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "as",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "an",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "intelligent",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "document",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "analyst,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "extracting",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "prioritizing",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "most",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "relevant",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "sections",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "from",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "collection",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "documents",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "based",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "on",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "specific",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "persona",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "their",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "job-to-be-done.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Input",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Specification",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Collection:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3-10",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "related",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "PDFs",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Persona",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Definition:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Role",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "description",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "expertise",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "focus",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "areas",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Job-to-be-Done:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Concrete",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "task",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "needs",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "accomplish",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "collection,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "job-to-be-done",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "can",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "be",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "very",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "diverse.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "So,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "solution",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "teams",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "need",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "generic",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "generalize",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "this",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "variety.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Documents",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "any",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "domain",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "(Example:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Research",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "papers,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "school/college",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "books,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "financial",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "reports,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "news",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "articles",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "etc.)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "again",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "diverse",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Researcher,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Student,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Salesperson,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Journalist,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Entrepreneur",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "etc)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Job-to-be-done:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "This",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Provide",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "literature",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "review",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "given",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "topic",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "available",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "research",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "should",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "I",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "study",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Organic",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "chemistry",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "documents,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Summarize",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "financials",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "corporation",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "xyz",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "detailed",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "year",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "end",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "reports",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Sample",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Cases",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "1:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Academic",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Documents:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "papers",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "\"Graph",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Neural",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Networks",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Drug",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Discovery\"",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Persona:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "PhD",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Researcher",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "in",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Computational",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Biology",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Job:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "\"Prepare",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "comprehensive",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "focusing",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "methodologies,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "datasets,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "performance",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "benchmarks\"",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Business",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Analysis",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Documents:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "annual",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "reports",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "from",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "competing",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "tech",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "companies",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "(2022-2024)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Persona:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Investment",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Analyst",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Job:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "\"Analyze",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "revenue",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "trends,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "R&D",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "investments,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "market",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "positioning",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "strategies\"",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "3:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Educational",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Content",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "chapters",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "organic",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "chemistry",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "textbooks",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Undergraduate",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Chemistry",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Student",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "\"Identify",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "key",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "concepts",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "mechanisms",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "exam",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "preparation",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "on",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "reaction",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "kinetics\"",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Required",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Output",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "JSON",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "format:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Refer",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "challenge1b_output.json",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "The",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "output",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "should",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "contain:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Metadata:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "a.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Input",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "documents",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "b.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Persona",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "c.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Job",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "be",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "done",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "d.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Processing",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "timestamp",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Extracted",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Section:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Page",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "number",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Section",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "title",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Importance_rank",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Sub-section",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Analysis:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Refined",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Text",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Number",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Constraints",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Must",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "run",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "CPU",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "only",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Model",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "size",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "≤",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1GB",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "time",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "60",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "seconds",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "collection",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "(3-5",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "documents)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "No",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "internet",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "access",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "allowed",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "during",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "execution",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Deliverables",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "approach_explanation.md",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "(300-500",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "words",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "explaining",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "methodology)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Dockerfile",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "execution",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "instructions",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Sample",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "input/output",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "testing",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Scoring",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Criteria",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Max",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Points",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Description",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "How",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "well",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "selected",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "sections",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "match",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Section",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Relevance",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "60",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "persona",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "+",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "job",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "requirements",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "proper",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "stack",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ranking",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Quality",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "of",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "granular",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "subsection",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Sub-Section",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "40",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "extraction",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Appendix:",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "https://github.com/jhaaj08/Adobe-India-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Hackathon25.git",
+      "page": 10
+    }
+  ]
+}
